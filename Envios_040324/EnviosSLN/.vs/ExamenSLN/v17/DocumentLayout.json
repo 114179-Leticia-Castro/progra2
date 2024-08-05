@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practica final Progra2\\Envios_040324\\EnviosSLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA653680-38D1-4CFD-81B6-72040E4DDBC8}|ExamenSLN.csproj|C:\\Practica final Progra2\\Envios_040324\\EnviosSLN\\presentaci\u00F3n\\frmconsultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA653680-38D1-4CFD-81B6-72040E4DDBC8}|ExamenSLN.csproj|solutionrelative:presentaci\u00F3n\\frmconsultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA653680-38D1-4CFD-81B6-72040E4DDBC8}|ExamenSLN.csproj|c:\\practica final progra2\\envios_040324\\enviossln\\presentaci\u00F3n\\frmconsultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA653680-38D1-4CFD-81B6-72040E4DDBC8}|ExamenSLN.csproj|solutionrelative:presentaci\u00F3n\\frmconsultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA653680-38D1-4CFD-81B6-72040E4DDBC8}|ExamenSLN.csproj|c:\\practica final progra2\\envios_040324\\enviossln\\datos\\implementacion\\enviodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA653680-38D1-4CFD-81B6-72040E4DDBC8}|ExamenSLN.csproj|solutionrelative:datos\\implementacion\\enviodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA653680-38D1-4CFD-81B6-72040E4DDBC8}|ExamenSLN.csproj|C:\\Practica final Progra2\\Envios_040324\\EnviosSLN\\datos\\helper\\helperdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA653680-38D1-4CFD-81B6-72040E4DDBC8}|ExamenSLN.csproj|solutionrelative:datos\\helper\\helperdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnvioDao.cs",
+              "DocumentMoniker": "C:\\Practica final Progra2\\Envios_040324\\EnviosSLN\\datos\\Implementacion\\EnvioDao.cs",
+              "RelativeDocumentMoniker": "datos\\Implementacion\\EnvioDao.cs",
+              "ToolTip": "C:\\Practica final Progra2\\Envios_040324\\EnviosSLN\\datos\\Implementacion\\EnvioDao.cs",
+              "RelativeToolTip": "datos\\Implementacion\\EnvioDao.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswE8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:43:43.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmConsultar.cs",
+              "DocumentMoniker": "C:\\Practica final Progra2\\Envios_040324\\EnviosSLN\\presentaci\u00F3n\\FrmConsultar.cs",
+              "RelativeDocumentMoniker": "presentaci\u00F3n\\FrmConsultar.cs",
+              "ToolTip": "C:\\Practica final Progra2\\Envios_040324\\EnviosSLN\\presentaci\u00F3n\\FrmConsultar.cs",
+              "RelativeToolTip": "presentaci\u00F3n\\FrmConsultar.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAswEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:52:35.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmConsultar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Practica final Progra2\\Envios_040324\\EnviosSLN\\presentaci\u00F3n\\FrmConsultar.cs",
+              "RelativeDocumentMoniker": "presentaci\u00F3n\\FrmConsultar.cs",
+              "ToolTip": "C:\\Practica final Progra2\\Envios_040324\\EnviosSLN\\presentaci\u00F3n\\FrmConsultar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "presentaci\u00F3n\\FrmConsultar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:52:36.04Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelperDB.cs",
+              "DocumentMoniker": "C:\\Practica final Progra2\\Envios_040324\\EnviosSLN\\datos\\Helper\\HelperDB.cs",
+              "RelativeDocumentMoniker": "datos\\Helper\\HelperDB.cs",
+              "ToolTip": "C:\\Practica final Progra2\\Envios_040324\\EnviosSLN\\datos\\Helper\\HelperDB.cs",
+              "RelativeToolTip": "datos\\Helper\\HelperDB.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:52:36.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

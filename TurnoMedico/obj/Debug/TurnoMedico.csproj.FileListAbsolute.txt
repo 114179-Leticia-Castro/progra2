@@ -1,0 +1,10 @@
+C:\Practica final Progra2\TurnoMedico\bin\Debug\TurnoMedico.exe.config
+C:\Practica final Progra2\TurnoMedico\bin\Debug\TurnoMedico.exe
+C:\Practica final Progra2\TurnoMedico\bin\Debug\TurnoMedico.pdb
+C:\Practica final Progra2\TurnoMedico\obj\Debug\TurnoMedico.csproj.AssemblyReference.cache
+C:\Practica final Progra2\TurnoMedico\obj\Debug\TurnoMedico.FrmAlta.resources
+C:\Practica final Progra2\TurnoMedico\obj\Debug\TurnoMedico.Properties.Resources.resources
+C:\Practica final Progra2\TurnoMedico\obj\Debug\TurnoMedico.csproj.GenerateResource.cache
+C:\Practica final Progra2\TurnoMedico\obj\Debug\TurnoMedico.csproj.CoreCompileInputs.cache
+C:\Practica final Progra2\TurnoMedico\obj\Debug\TurnoMedico.exe
+C:\Practica final Progra2\TurnoMedico\obj\Debug\TurnoMedico.pdb
