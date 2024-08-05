@@ -51,3 +51,13 @@ C:\Practica final Progra2\Pedidos para alumnos update\PedidosSLN\obj\Debug\Pedid
 C:\Practica final Progra2\Pedidos para alumnos update\PedidosSLN\obj\Debug\PedidosSLN.csproj.CoreCompileInputs.cache
 C:\Practica final Progra2\Pedidos para alumnos update\PedidosSLN\obj\Debug\RecetasSLN.exe
 C:\Practica final Progra2\Pedidos para alumnos update\PedidosSLN\obj\Debug\RecetasSLN.pdb
+C:\Practica final Progra2\progra2\Pedidos para alumnos update\PedidosSLN\bin\Debug\RecetasSLN.exe.config
+C:\Practica final Progra2\progra2\Pedidos para alumnos update\PedidosSLN\bin\Debug\RecetasSLN.exe
+C:\Practica final Progra2\progra2\Pedidos para alumnos update\PedidosSLN\bin\Debug\RecetasSLN.pdb
+C:\Practica final Progra2\progra2\Pedidos para alumnos update\PedidosSLN\obj\Debug\PedidosSLN.csproj.AssemblyReference.cache
+C:\Practica final Progra2\progra2\Pedidos para alumnos update\PedidosSLN\obj\Debug\RecetasSLN.presentación.FrmConsultar.resources
+C:\Practica final Progra2\progra2\Pedidos para alumnos update\PedidosSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+C:\Practica final Progra2\progra2\Pedidos para alumnos update\PedidosSLN\obj\Debug\PedidosSLN.csproj.GenerateResource.cache
+C:\Practica final Progra2\progra2\Pedidos para alumnos update\PedidosSLN\obj\Debug\PedidosSLN.csproj.CoreCompileInputs.cache
+C:\Practica final Progra2\progra2\Pedidos para alumnos update\PedidosSLN\obj\Debug\RecetasSLN.exe
+C:\Practica final Progra2\progra2\Pedidos para alumnos update\PedidosSLN\obj\Debug\RecetasSLN.pdb

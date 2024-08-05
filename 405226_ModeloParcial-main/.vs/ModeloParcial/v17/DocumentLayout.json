@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|c:\\practica final progra2\\progra2\\405226_modeloparcial-main\\datos\\implementacion\\ordenesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|solutionrelative:datos\\implementacion\\ordenesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\presentacion\\frmconsultarordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|solutionrelative:presentacion\\frmconsultarordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\presentacion\\frmconsultarorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|solutionrelative:presentacion\\frmconsultarorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\presentacion\\frmeditarorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|solutionrelative:presentacion\\frmeditarorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\presentacion\\frmeditarorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|solutionrelative:presentacion\\frmeditarorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\presentacion\\frmreportestock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{107FF76D-9232-4888-AD7B-97E521C56650}|ModeloParcial.csproj|solutionrelative:presentacion\\frmreportestock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmConsultarOrden.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\Presentacion\\FrmConsultarOrden.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmConsultarOrden.cs",
+              "ToolTip": "C:\\Users\\letic\\prograII\\TUP_PROGII2023\\405226_ModeloParcial-main\\405226_ModeloParcial-main\\Presentacion\\FrmConsultarOrden.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\letic\\prograII\\TUP_PROGII2023\\405226_ModeloParcial-main\\405226_ModeloParcial-main\\Presentacion\\FrmConsultarOrden.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-05T10:07:22.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmConsultarOrdenes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\Presentacion\\FrmConsultarOrdenes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmConsultarOrdenes.cs",
+              "ToolTip": "C:\\Users\\letic\\prograII\\TUP_PROGII2023\\405226_ModeloParcial-main\\405226_ModeloParcial-main\\Presentacion\\FrmConsultarOrdenes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\letic\\prograII\\TUP_PROGII2023\\405226_ModeloParcial-main\\405226_ModeloParcial-main\\Presentacion\\FrmConsultarOrdenes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-05T10:07:22.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdenesDAO.cs",
+              "DocumentMoniker": "C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\Datos\\Implementacion\\OrdenesDAO.cs",
+              "RelativeDocumentMoniker": "Datos\\Implementacion\\OrdenesDAO.cs",
+              "ToolTip": "C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\Datos\\Implementacion\\OrdenesDAO.cs",
+              "RelativeToolTip": "Datos\\Implementacion\\OrdenesDAO.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAANcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:07:22.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEditarOrden.cs",
+              "DocumentMoniker": "C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\Presentacion\\FrmEditarOrden.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmEditarOrden.cs",
+              "ToolTip": "C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\Presentacion\\FrmEditarOrden.cs",
+              "RelativeToolTip": "Presentacion\\FrmEditarOrden.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-05T10:07:22.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEditarOrden.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\Presentacion\\FrmEditarOrden.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmEditarOrden.cs",
+              "ToolTip": "C:\\Users\\esteb\\source\\repos\\ModeloParcial\\Presentacion\\FrmEditarOrden.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\esteb\\source\\repos\\ModeloParcial\\Presentacion\\FrmEditarOrden.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-05T10:07:22.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmReporteStock.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Practica final Progra2\\progra2\\405226_ModeloParcial-main\\Presentacion\\FrmReporteStock.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmReporteStock.cs",
+              "ToolTip": "C:\\Users\\esteb\\source\\repos\\ModeloParcial\\Presentacion\\FrmReporteStock.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\esteb\\source\\repos\\ModeloParcial\\Presentacion\\FrmReporteStock.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-05T10:07:22.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

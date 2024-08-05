@@ -16,7 +16,34 @@ namespace RecetasSLN.datos.Implementacion
     {
         public bool CancelarEnvio(int codigo)
         {
-            throw new NotImplementedException();
+            bool aux = true;
+            SqlConnection conexion = HelperDB.ObtenerInstancia().ObtenerConexion();
+            SqlTransaction transaccion = null;
+            try
+            {
+                conexion.Open();
+                transaccion = conexion.BeginTransaction();
+                SqlCommand comando = new SqlCommand("SP_REGISTRAR_CANCELACION_ENVIO", conexion, transaccion);
+                comando.CommandType = CommandType.StoredProcedure;
+                //Parametro param = new Parametro("@codigo", codigo);
+                comando.Parameters.AddWithValue("@codigo", codigo);
+                comando.ExecuteNonQuery();
+                transaccion.Commit();
+            }
+            catch
+            {
+                if (transaccion != null)
+                {
+                    transaccion.Rollback();
+                    aux = false;
+                }
+            }
+            finally
+            {
+                if (conexion != null && conexion.State == ConnectionState.Open)
+                    conexion.Close();
+            }
+            return aux;
         }
 
         public bool RegistrarEnvio(Envio oEnvio)

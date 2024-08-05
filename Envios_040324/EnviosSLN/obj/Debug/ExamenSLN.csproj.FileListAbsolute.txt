@@ -30,3 +30,13 @@ C:\Practica final Progra2\Envios_040324\EnviosSLN\obj\Debug\ExamenSLN.csproj.Gen
 C:\Practica final Progra2\Envios_040324\EnviosSLN\obj\Debug\ExamenSLN.csproj.CoreCompileInputs.cache
 C:\Practica final Progra2\Envios_040324\EnviosSLN\obj\Debug\RecetasSLN.exe
 C:\Practica final Progra2\Envios_040324\EnviosSLN\obj\Debug\RecetasSLN.pdb
+C:\Practica final Progra2\progra2\Envios_040324\EnviosSLN\bin\Debug\RecetasSLN.exe.config
+C:\Practica final Progra2\progra2\Envios_040324\EnviosSLN\bin\Debug\RecetasSLN.exe
+C:\Practica final Progra2\progra2\Envios_040324\EnviosSLN\bin\Debug\RecetasSLN.pdb
+C:\Practica final Progra2\progra2\Envios_040324\EnviosSLN\obj\Debug\ExamenSLN.csproj.AssemblyReference.cache
+C:\Practica final Progra2\progra2\Envios_040324\EnviosSLN\obj\Debug\ExamenSLN.presentación.FrmConsultar.resources
+C:\Practica final Progra2\progra2\Envios_040324\EnviosSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+C:\Practica final Progra2\progra2\Envios_040324\EnviosSLN\obj\Debug\ExamenSLN.csproj.GenerateResource.cache
+C:\Practica final Progra2\progra2\Envios_040324\EnviosSLN\obj\Debug\ExamenSLN.csproj.CoreCompileInputs.cache
+C:\Practica final Progra2\progra2\Envios_040324\EnviosSLN\obj\Debug\RecetasSLN.exe
+C:\Practica final Progra2\progra2\Envios_040324\EnviosSLN\obj\Debug\RecetasSLN.pdb

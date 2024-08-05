@@ -62,8 +62,8 @@ namespace RecetasSLN.datos.Implementacion
                 transaccion = conexion.BeginTransaction();
                 SqlCommand comando = new SqlCommand("SP_REGISTRAR_BAJA", conexion, transaccion);
                 comando.CommandType = CommandType.StoredProcedure;
-                Parametro param = new Parametro("@codigo", codigo);
-                comando.Parameters.AddWithValue(param.Clave, param.Valor);
+                //Parametro param = new Parametro("@codigo", codigo);
+                comando.Parameters.AddWithValue("@codigo",codigo);
                 comando.ExecuteNonQuery();
                 transaccion.Commit();
             }

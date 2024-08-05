@@ -15,4 +15,4 @@ namespace RecetasSLN.datos.Interfaz
         bool RegistrarEntrega (int codigo);
         bool RegistrarBaja (int codigo);
     }
-}
+} 

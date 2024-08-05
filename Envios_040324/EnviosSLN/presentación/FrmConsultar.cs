@@ -71,6 +71,23 @@ namespace ExamenSLN.presentación
         private void dgvPedidos_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             //Completar...
+            if (dgvPedidos.CurrentCell.ColumnIndex == 3)
+            {
+                string Entregado = dgvPedidos.CurrentRow.Cells["colEntrega"].Value.ToString();
+                Envio oEnvio = (Envio)dgvPedidos.CurrentRow.Cells["colCodigo"].Value;
+
+                if (Entregado == "S")
+                {
+                    bool registrar = servicio.CargarEnvio(oEnvio);
+                    if (registrar)
+                    {
+                        dgvPedidos.CurrentRow.Cells["colEntrega"].Value = "Para Enviar";
+                        MessageBox.Show("Se registro el envio ", "Entregado", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
+                    }
+                }
+
+            }
         }
     }
 }

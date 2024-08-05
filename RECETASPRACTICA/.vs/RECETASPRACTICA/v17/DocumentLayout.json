@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|c:\\users\\letic\\onedrive\\escritorio\\practica final progra ii\\recetaspractica\\recetaspractica\\presentacion\\frmaltarecetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|solutionrelative:recetaspractica\\presentacion\\frmaltarecetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\recetaspractica\\entidades\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|solutionrelative:recetaspractica\\entidades\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\recetaspractica\\datos\\implementacion\\recetadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|solutionrelative:recetaspractica\\datos\\implementacion\\recetadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\recetaspractica\\entidades\\detallereceta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|solutionrelative:recetaspractica\\entidades\\detallereceta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\recetaspractica\\datos\\interfaz\\irecetadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|solutionrelative:recetaspractica\\datos\\interfaz\\irecetadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\recetaspractica\\datos\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|solutionrelative:recetaspractica\\datos\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\recetaspractica\\presentacion\\frmaltarecetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10E02196-4ADF-41A6-830D-AA097BECBCAA}|RECETASPRACTICA\\RECETASPRACTICA.csproj|solutionrelative:recetaspractica\\presentacion\\frmaltarecetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRecetaDao.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Datos\\Interfaz\\IRecetaDao.cs",
+              "RelativeDocumentMoniker": "RECETASPRACTICA\\Datos\\Interfaz\\IRecetaDao.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Datos\\Interfaz\\IRecetaDao.cs",
+              "RelativeToolTip": "RECETASPRACTICA\\Datos\\Interfaz\\IRecetaDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:16:22.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelperDao.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Datos\\HelperDao.cs",
+              "RelativeDocumentMoniker": "RECETASPRACTICA\\Datos\\HelperDao.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Datos\\HelperDao.cs",
+              "RelativeToolTip": "RECETASPRACTICA\\Datos\\HelperDao.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T20:44:27.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleReceta.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Entidades\\DetalleReceta.cs",
+              "RelativeDocumentMoniker": "RECETASPRACTICA\\Entidades\\DetalleReceta.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Entidades\\DetalleReceta.cs",
+              "RelativeToolTip": "RECETASPRACTICA\\Entidades\\DetalleReceta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:11:52.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Receta.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Entidades\\Receta.cs",
+              "RelativeDocumentMoniker": "RECETASPRACTICA\\Entidades\\Receta.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Entidades\\Receta.cs",
+              "RelativeToolTip": "RECETASPRACTICA\\Entidades\\Receta.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:11:50.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecetaDao.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Datos\\Implementacion\\RecetaDao.cs",
+              "RelativeDocumentMoniker": "RECETASPRACTICA\\Datos\\Implementacion\\RecetaDao.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Datos\\Implementacion\\RecetaDao.cs",
+              "RelativeToolTip": "RECETASPRACTICA\\Datos\\Implementacion\\RecetaDao.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:50:24.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAltaRecetas.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Presentacion\\FrmAltaRecetas.cs",
+              "RelativeDocumentMoniker": "RECETASPRACTICA\\Presentacion\\FrmAltaRecetas.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Presentacion\\FrmAltaRecetas.cs",
+              "RelativeToolTip": "RECETASPRACTICA\\Presentacion\\FrmAltaRecetas.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAD4v18AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:03:07.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAltaRecetas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Presentacion\\FrmAltaRecetas.cs",
+              "RelativeDocumentMoniker": "RECETASPRACTICA\\Presentacion\\FrmAltaRecetas.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\Escritorio\\practica final progra II\\RECETASPRACTICA\\RECETASPRACTICA\\Presentacion\\FrmAltaRecetas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RECETASPRACTICA\\Presentacion\\FrmAltaRecetas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:33:43.222Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
